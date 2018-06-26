@@ -4,7 +4,7 @@ title: Kellen's Summer blog
 description: > # this means to ignore newlines until "baseurl:"
 
 permalink: ':title/'
-baseurl: "/pages/TeenWork/kellen.github.kub.org" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social

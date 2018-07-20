@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Downtime"
+date:   2018-07-18
+ 00:00:00
+img:
+description:
+---
+Today I've been working with my mentor Keith on a fix
+for the KUB Customer Website and We had finished What we could relatively quickly and due to that I have `downtime` in which I create blog posts, try to solve coding problems that I can't understand, and listen to music.

@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Moving Up"
-date:   2018-07-11
+
+title:  "Downtime"
+date:   2018-07-18
  00:00:00
 img:
 description:
 ---
+Today I've been working with my mentor Keith on a fix
+for the KUB Customer Website and We had finished What we could relatively quickly and due to that I have `downtime` in which I create blog posts, try to solve coding problems that I can't understand, and listen to music.
 
-Today I was given the task to set up a meeting to discuss changes for kub payment apps. It was one of  the most adult things I've done ever. I can feel myself maturing here... I don't like it.                                            
